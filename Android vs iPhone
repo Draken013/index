@@ -1,0 +1,57 @@
+Android vs iPhone
+
+Let me start off by saying that I use both. I have an iPhone I use for multimedia and games and my daily driver is a Pixel. As I've stated in Basics, both Android and iPhone are pretty similar in terms of security, but that's where the similarities end.
+
+First, a Q&A flowchart:
+
+Random person: "I need a new smartphone!"
+Me: "Okay, what kind of phone do you currently have?" (If the answer is iPhone, proceed to the next line. If the answer is "I have a Galaxy, proceed to line 15. If the answer is another type of Android, proceed to line 17.)
+Rando: "I have an iPhone!"
+Me: "Are you planning on leaving the Apple ecosystem?" (If the answer is "no," proceed to the next line. If the answer is "maybe," proceed to line 13.)
+Rando: "No."
+Me: "Then get the latest iPhone. It'll have longer software support."
+Rando: "...I'm thinking about it, maybe (or words to that effect)."
+Me: "I recommend a Pixel phone. It's stock-ish Android and you'll only have Google looking at you at first, unlike a Galaxy where you also have Samsung."
+Rando: "I have a Galaxy S-whatever!"
+Me: "I really recommend getting a Pixel phone. Samsung puts too much bloat on the Galaxy line, but if you want go ahead and spend more money on the latest Galaxy."
+Rando: "I have this Motorola phone I got for cheap a few years ago." (I'm just picking on Motorola because of their poorly-optimized phones.)
+Me: "Get a Pixel. It's Android the way Google wants it to be."
+
+And now, an honest comparison between the two operating systems:
+
+SETUP:
+Roughly the same between the two
+WINNER: Tie
+
+FULL SYSTEM BACKUP:
+Android: Google Drive
+iPhone: Either iCloud or Windows/Mac via iTunes (iCloud is finally getting end-to-end encryption)
+WINNER: iPhone
+
+EASE OF USE:
+iPhone: Toggles are hard to find on purpose, half of the app settings have to be configured in System Settings.
+Android: Most app settings are in the apps themselves, the System Settings only have the permissions, storage size, and whether or not you want to wipe and uninstall.
+WINNER: Android
+
+MESSAGING:
+iPhone: iMessage is the default messenger and you must use it for SMS. Signal, Session, Matrix, etc. are all present.
+Android: You can switch default SMS messengers. Signal, Session, Matrix, etc. are also all present.
+WINNER: Android
+
+PHONE CALLS:
+iPhone: Can't switch away from the default dialer, which has had the same exact UI for over 10 years.
+Android: Can change the default dialer to something more privacy-friendly.
+WINNER: Android
+
+BROWSERS:
+iPhone: Everything's based on WebKit, which is open source. Brave and Firefox work mostly like their Android counterparts (except you can't use add-ons on iPhone Firefox).
+Android: Chromium (Brave, Bromite), Gecko (Firefox, Fennec), and WebKit (I don't know of a single browser on Android that runs WebKit) engines supported. Add-ons supported on Gecko-based browsers.
+WINNER: Android
+
+OPTIMIZATION:
+(by this, I mean how well the hardware and software work together)
+iPhone: Everything's designed in-house (and manufactured via Chinese sweatshop labor), meaning an underpowered iPhone can seem faster than some Androids.
+Android: This all depends. I've found Pixels to be better optimized than Galaxy phones.
+WINNER: iPhone
+
+The clear winner on my match-up is Android, but there are good arguments as to why one would want to keep running an iPhone. Sometimes people want that feeling of familiarity, for others they just want the status symbol that involves blue bubbles. It's all a matter of personal preference here.
