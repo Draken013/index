@@ -1,0 +1,29 @@
+Google Chrome was once the best browser available. Then Google decided to make money off of everyone using it so it ended up getting loaded down with bloatware. In spite of this, it remains the most widely used browser on the planet.
+
+There ARE infinitely superior options out there. I'm going to go one at a time, starting with my top pick and working my way down. As far as add-ons/extensions are concerned, the fewer you have installed on your browser of choice the more secure you are. The only browser add-ons/extensions I recommend are uBlock Origin, Privacy Badger (works similar to uBlock Origin but it never hurts to have redundancies in place "just in case"), ClearURLs (for Firefox, this is unnecessary on Brave), and Facebook Container (for Firefox).
+
+There are hardening guides out there that articulate the steps better than I ever could. For reference, I recommend Techlore's videos on some of these browsers for further details.
+
+NOTE 1: As explained in "Android vs iPhone," as of this writing all browsers running on iOS are based on the open source Webkit engine. Browser developers have made their iOS apps function just like their original versions. While most browsers below are also available on iOS, when I say something is based on a certain other engine it's generally for Windows, Linux, and Android.
+
+NOTE 2: iOS does not have "Nightly" or "Canary" versions of certain browsers.
+
+NOTE 3: On Android, download FFUpdater through F-Droid. You can get most of the below browsers off of that app and downloaded directly from the open source repositories.
+
+BRAVE BROWSER
+
+If you're already using Google Chrome and want to switch, then Brave will be nothing but familiar to you. Brave, like Chrome, is based on the Chromium browser (it might also be owned by Google but it is open source). Founded by Brendan Eich (one of the founders of Mozilla), Brave's emphasis is on both privacy and security and only needs some mild hardening once it's installed. There are also "Beta" and "Nightly" versions of Brave available if you want to test out the latest and greatest features before the official release.
+
+FIREFOX
+LIBREWOLF (Windows/Linux only)
+FENNEC/MULL (both on Android only)
+
+These are based on Mozilla's Gecko engine. Once fine tuned they can be the most private and secure browser you could ever install, and that's even without installing Arkenfox on desktop Firefox (Librewolf is basically Arkenfox-enabled Firefox). The reason I put all these in one spot is, even on Android, the Gecko browsers all run identical to one another and you can even install add-ons on the Android versions (I still recommend only uBlock Origin and Privacy Badger). Firefox also has Beta and Nightly versions, and you can even install "burner browsers" called Firefox Focus/Firefox Klar.
+
+BROMITE/MULCH (both on Android only)
+
+These are two more Chromium-based browsers with an emphasis on privacy. Mulch is a fork of Bromite and, apart from the icons, are practically identical to one another.
+
+TOR BROWSER (not available on iOS, but the Guardian Project does recommend a third-party app called Onion Browser)
+
+A Gecko-based browser that gets you onto the Tor network. It is NOT recommended to change any settings aside from the Security one to either "Safer" or "Safest." It is NOT recommended to install any additional add-ons to Tor Browser, as more add-ons will just fingerprint you. There is also an Alpha version of Tor Browser available on Android.
